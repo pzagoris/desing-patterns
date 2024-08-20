@@ -5,6 +5,8 @@ It is _behav­ioral_ design pat­tern that defines the skele­ton of an algo­ri
 but lets sub­class­es over­ride spe­cif­ic steps of the algo­rithm with­out chang­ing its structure.
 
 ## Use
-
 1. Use the pat­tern when you have sev­er­al class­es that con­tain almost iden­ti­cal algo­rithms with some minor dif­fer­ences.
 2. Use the pat­tern when you want to let clients extend only par­tic­u­lar steps of an algo­rithm, but not the whole algo­rithm or its structure.
+
+## Example
+Data processor. Process CSV/XML/JSON data.
