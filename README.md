@@ -15,6 +15,5 @@ It is a _behavioral_ design pattern that lets an object to changes its behavior 
    - Each subclass implements a behavior associated with a state of the context
 
 ## Example
-
 State machines
 
