@@ -1,0 +1,52 @@
+# Eclipse specific files
+/.classpath
+/.project
+/.settings/
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled class files
+/bin/
+/build/
+/target/
+/out/
+
+# Maven directories
+/.mvn/
+/mvnw
+/mvnw.cmd
+
+# Gradle directories
+/.gradle/
+/build/
+
+# Intellij IDEA project files
+/.idea/
+/*.iml
+
+# Logs
+/logs/
+/*.log
+
+# Environment-specific files
+/.env
+.env
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.ear
