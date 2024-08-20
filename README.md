@@ -6,7 +6,13 @@ It is a _behavioral_ design pattern that lets an object to changes its behavior 
 
 ## Use
 
- 
+ - Context
+   - Maintains an instance of a concrete subclass and it defines the interface of interest to clients.
+ - State
+   - Defines an interface for encapsulating the behavior of associated with a particular state of the context
+
+ - ConcreteState
+   - Each subclass implements a behavior associated with a state of the context
 
 ## Example
 
