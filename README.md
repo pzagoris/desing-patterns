@@ -21,3 +21,7 @@ put each of them into a sep­a­rate class, and make their objects inter­change
 - algorithm uses data that client should not know. Isolate the business logic from the implementation details.
 - class has conditional operator that switches between different variants of the same algorithm.
 - a lot of similar classes that differ only in their behavior.
+
+## Example
+
+Navigation App. Reach to your destination by car/bicycle/train etc.
