@@ -6,10 +6,10 @@
   -- Declares an interface common to all supported algorithms. Context uses this iterface to call the algorithm defined by a ConcreteStrategy.
 
 - ConcreteStrategy
-Implements the algorithm using the Strategy interface.
+  - Implements the algorithm using the Strategy interface.
 
 - Context
-Is configured with a ConcreteStrategy object.
-Maintains a reference to a Strategy object.
+ - Is configured with a ConcreteStrategy object.
+ - Maintains a reference to a Strategy object.
 
 
